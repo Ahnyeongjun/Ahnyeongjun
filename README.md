@@ -2,19 +2,21 @@
 #  안영준(yeongjun Ahn)
 
 - 🔭 I'm currently attending Daedeok Software Meister High School(DSM).
-- 🌱 I’m currently learning SpringBoot.
-- 🥅 2020 Goals: Become the master of springBoot.
-- 
+- 🌱 I’m currently learning React.
+- 🥅 2021 Goals: My goal is to learn various fields and languages.
+  (Ex= kotlin, Js, Ts, python, dart...)
+
 ### :pencil2: I’m currently learning
 
-- Java (Spring)
-- Domain Driven Design
+- React
+- kotlin
 
 ## Languages and Tools:
 
 <img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="springboot" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="left" alt="redis" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
 <img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />

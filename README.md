@@ -8,7 +8,7 @@
 
 ### :pencil2: I’m currently learning
 
-- React
+- React - 19
 - kotlin
 
 ## Languages and Tools:

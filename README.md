@@ -12,16 +12,17 @@
 - kotlin
 
 ## Languages and Tools:
+<!--**- Language**  -->
 
-<img align="left" alt="Java" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="springboot" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-<img align="left" alt="redis" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
-<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="aws" width="45px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-red?style=flat-square&logo=Java&logoColor=white&labelColor=red)![Kotlin](https://img.shields.io/badge/Kotlin-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue?style=flat-square&logo=Kotlin&logoColor=white&labelColor=blue)![JavaScript](https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?style=flat-square&logo=JavaScript&logoColor=white&labelColor=yellow)
 
+<!--**- Framework**  -->
+
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-limegreen?style=flat-square&logo=Spring&logoColor=white&labelColor=limegreen)![Express](https://img.shields.io/badge/Express-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkslategray?style=flat-square&logo=Express&logoColor=white&labelColor=darkslategray)![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-deepskyblue?style=flat-square&logo=React&logoColor=white&labelColor=deepskyblue)
+
+<!--**- Sub**  -->
+
+![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-black?style=flat-square&logo=Git&logoColor=white&labelColor=black)![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=flat-square&logo=MySQL&logoColor=white&labelColor=blue)![Redis](https://img.shields.io/badge/Redis-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-purple?style=flat-square&logo=Redis&logoColor=white&labelColor=purple)![mongodb](https://img.shields.io/badge/mongodb-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green?style=flat-square&logo=mongodb&logoColor=white&labelColor=green)![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkorange?style=flat-square&logo=Amazon&logoColor=white&labelColor=darkorange)
 
 <br />
 <br />

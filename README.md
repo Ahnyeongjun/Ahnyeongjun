@@ -24,9 +24,7 @@
 
 ![Git](https://img.shields.io/badge/Git-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-black?style=flat-square&logo=Git&logoColor=white&labelColor=black) ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=flat-square&logo=MySQL&logoColor=white&labelColor=blue) ![Redis](https://img.shields.io/badge/Redis-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-purple?style=flat-square&logo=Redis&logoColor=white&labelColor=purple) ![mongodb](https://img.shields.io/badge/mongodb-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-green?style=flat-square&logo=mongodb&logoColor=white&labelColor=green) ![AWS](https://img.shields.io/badge/AWS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-darkorange?style=flat-square&logo=Amazon&logoColor=white&labelColor=darkorange)
 
-<br />
-<br />
-<br />
+
 <br />
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Ahnyeongjun)](https://github.com/anuraghazra/github-readme-stats)

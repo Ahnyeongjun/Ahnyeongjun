@@ -2,8 +2,8 @@
 #  안영준(yeongjun Ahn)
 
 - 🔭 I'm currently attending Daedeok Software Meister High School(DSM).
-- 🌱 I’m currently learning React.
-- 🥅 2021 Goals: My goal is to learn various fields and languages.
+- 🌱 I’m currently attending INSPACE.
+- 🥅 2021 Goals: My goal is to learn various fields and languages. 
   (Ex= kotlin, Js, Ts, python, dart...)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Ahnyeongjun)](https://github.com/anuraghazra/github-readme-stats)
